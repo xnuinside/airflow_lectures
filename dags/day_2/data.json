@@ -1,0 +1,10 @@
+[
+    {
+       "customer":"cus_123",
+       "card_number":"632323421"
+    },
+    {
+       "customer":"cus_23123123",
+       "card_number":"732323421"
+    }
+ ]
